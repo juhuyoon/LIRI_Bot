@@ -26,16 +26,16 @@ For this Bot, Twitter, Spotify, and OMDB Data were used to gain their respective
      4. "do-what-it-says"
 ------  
 ### What Each Command Does
-1. "my-tweets" 
+1. **"my-tweets"** 
     * Show the last 20 tweets associated with the twitter account information linked.
-2. "spotify-this-song "song-name"" 
+2. **"spotify-this-song "song-name""** 
     * Show information of the song requested
     ```  
          *Artist
          *Song Name
          *External URL
          *Album Name
-3. "movie-this "movie-name""
+3. **"movie-this "movie-name""**
     * Show information of the movie requested
     ```
         *Title
@@ -46,7 +46,7 @@ For this Bot, Twitter, Spotify, and OMDB Data were used to gain their respective
         *Language
         *Plot
         *Actors
-4. "do-what-it says"  
+4. **"do-what-it says"**
     * return the gathered information of the currently ran commands. 
     * the information is placed inside of the log.txt via the use of the fs Node Package.  
 ------    
